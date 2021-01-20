@@ -1,1 +1,1 @@
-# ocp-model-serving-using-seldon
+# Openshift Model Serving using Seldon 
